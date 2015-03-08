@@ -1,0 +1,10 @@
+/bin
+/target
+/build
+*.*~
+/.git
+/.settings
+/.classpath
+/.project
+/.gradle
+/bin/
